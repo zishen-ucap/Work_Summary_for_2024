@@ -97,10 +97,9 @@
       <video src="https://github.com/user-attachments/assets/3b80519d-aed6-4129-9600-070d19bcbf6b" width="200" controls></video>
     </td>
     <td>
-	
-      <video src="https://github.com/user-attachments/assets/6fff63c5-2062-4f6e-b141-ec78d93d8ac0" width="200" controls></video>
+	<video src="https://github.com/user-attachments/assets/6fff63c5-2062-4f6e-b141-ec78d93d8ac0" width="200" controls></video>
     </td>
-	<td>
+    <td>
       <video src="https://github.com/user-attachments/assets/a8db2d63-0801-4030-916f-e940484667fd" width="200" controls></video>
     </td>
   </tr>
