@@ -124,19 +124,19 @@ SVD算法在生成大于25帧的视频会发生明显的抖动现象，在结合
       <img src=".\img\fatman.jpg" width="100">
     </td>
     <td>
-      <video src=".\video\3-1-2(1).mp4" width="100" controls></video>
+      <video src="https://github.com/user-attachments/assets/e7f5f981-51c7-4d31-aee0-183bc0f04a5d" width="100" controls></video>
     </td>
     <td>
-      <video src=".\video\3-1-2(2).mp4" width="100" controls></video>
-    </td>
-	<td>
-      <video src=".\video\3-1-2(3).mp4" width="100" controls></video>
+      <video src="https://github.com/user-attachments/assets/6f6485ff-6149-49ff-8537-1b7b95989393" width="100" controls></video>
     </td>
     <td>
-      <video src=".\video\3-1-2(4).mp4" width="100" controls></video>
+      <video src="https://github.com/user-attachments/assets/ad031616-f284-4fb4-9bbd-62b2db68fa84" width="100" controls></video>
     </td>
     <td>
-      <video src=".\video\3-1-2(5).mp4" width="100" controls></video>
+      <video src="https://github.com/user-attachments/assets/a666a8f0-8260-4e25-8716-3df4e4b23d4b" width="100" controls></video>
+    </td>
+    <td>
+      <video src="https://github.com/user-attachments/assets/cd6ab76e-ab20-4e05-8f5a-774c06b3748f" width="100" controls></video>
     </td>
   </tr>
 </table>
@@ -153,10 +153,10 @@ Mimicmotion算法在处理输入图像主题与输入视频主体体型差异较
   </tr>
   <tr>
     <td>
-      <video src=".\video\3-1-2(6).mp4" width="200" controls></video>
+      <video src="https://github.com/user-attachments/assets/064a4b50-c183-40f4-bf61-787dda88fb3e" width="200" controls></video>
     </td>
     <td>
-      <video src=".\video\3-1-2(7).mp4" width="200" controls></video>
+      <video src="https://github.com/user-attachments/assets/6c1a45e6-ca77-4bbb-994a-42ac4e349005" width="200" controls></video>
     </td>
   </tr>
 </table>
@@ -173,13 +173,13 @@ Mimicmotion算法在处理输入图像主题与输入视频主体体型差异较
   </tr>
   <tr>
     <td>
-      <video src=".\video\3-1-3(1).mp4" width="200" controls></video>
+      <video src="https://github.com/user-attachments/assets/c23b7858-9e89-4436-8179-3712019a8812" width="200" controls></video>
     </td>
     <td>
-      <video src=".\video\3-1-3(2).mp4" width="200" controls></video>
+      <video src="https://github.com/user-attachments/assets/1deb3900-e6c6-4a7f-b6d2-ab549c006bac" width="200" controls></video>
     </td>
-	<td>
-      <video src=".\video\3-1-3(3).mp4" width="200" controls></video>
+    <td>
+      <video src="https://github.com/user-attachments/assets/dbe87ea7-a9a5-4fa8-8a05-69c87c0d15f6" width="200" controls></video>
     </td>
   </tr>
 </table>
