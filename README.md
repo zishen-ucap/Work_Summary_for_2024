@@ -124,19 +124,19 @@ SVD算法在生成大于25帧的视频会发生明显的抖动现象，在结合
       <img src=".\img\fatman.jpg" width="100">
     </td>
     <td>
-      <video src="https://github.com/user-attachments/assets/e7f5f981-51c7-4d31-aee0-183bc0f04a5d" width="100" controls></video>
+      <video src="https://github.com/user-attachments/assets/e7f5f981-51c7-4d31-aee0-183bc0f04a5d" width="80" controls></video>
     </td>
     <td>
-      <video src="https://github.com/user-attachments/assets/6f6485ff-6149-49ff-8537-1b7b95989393" width="100" controls></video>
+      <video src="https://github.com/user-attachments/assets/6f6485ff-6149-49ff-8537-1b7b95989393" width="80" controls></video>
     </td>
     <td>
-      <video src="https://github.com/user-attachments/assets/ad031616-f284-4fb4-9bbd-62b2db68fa84" width="100" controls></video>
+      <video src="https://github.com/user-attachments/assets/ad031616-f284-4fb4-9bbd-62b2db68fa84" width="80" controls></video>
     </td>
     <td>
-      <video src="https://github.com/user-attachments/assets/a666a8f0-8260-4e25-8716-3df4e4b23d4b" width="100" controls></video>
+      <video src="https://github.com/user-attachments/assets/a666a8f0-8260-4e25-8716-3df4e4b23d4b" width="80" controls></video>
     </td>
     <td>
-      <video src="https://github.com/user-attachments/assets/cd6ab76e-ab20-4e05-8f5a-774c06b3748f" width="100" controls></video>
+      <video src="https://github.com/user-attachments/assets/cd6ab76e-ab20-4e05-8f5a-774c06b3748f" width="80" controls></video>
     </td>
   </tr>
 </table>
@@ -200,10 +200,10 @@ Mimicmotion算法在处理输入图像主题与输入视频主体体型差异较
       <img src=".\img\图片1.png" width="200">
     </td>
     <td>
-      <video src=".\video\3-1-4(1).mp4" width="300" controls></video>
+      <video src="https://github.com/user-attachments/assets/e73e5972-1948-4677-a3e7-f3b4a704a814" width="300" controls></video>
     </td>
-	<td>
-      <video src=".\video\3-1-4(2).mp4" width="200" controls></video>
+    <td>
+      <video src="https://github.com/user-attachments/assets/5534fd2c-91b1-4ac6-8f59-6e616a5745d6" width="200" controls></video>
     </td>
   </tr>
 </table>
@@ -227,16 +227,16 @@ Mimicmotion算法在处理输入图像主题与输入视频主体体型差异较
       效果
     </td>
     <td>
-      <video src=".\video\3-1-5(1).mp4" width="200" controls></video>
+      <video src="https://github.com/user-attachments/assets/fc10ca10-4edb-4b0e-8234-d729bd1e88ce" width="200" controls></video>
     </td>
     <td>
-      <video src=".\video\3-1-5(3).mp4" width="200" controls></video>
+      <video src="https://github.com/user-attachments/assets/24a80411-1aed-4853-87d9-27219aa29ee0" width="200" controls></video>
     </td>
-	<td>
-      <video src=".\video\3-1-5(2).mp4" width="200" controls></video>
+    <td>
+      <video src="https://github.com/user-attachments/assets/00b86301-42b0-4676-aa76-d04913a10381" width="200" controls></video>
     </td>
-	<td>
-      <video src=".\video\3-1-5(4).mp4" width="200" controls></video>
+    <td>
+      <video src="https://github.com/user-attachments/assets/79579b21-fbde-4694-a8dc-292bc6dcc8d0" width="200" controls></video>
     </td>
   </tr>
   <tr>
