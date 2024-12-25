@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/8c2f4433-29c8-43e2-8659-b68e174abe0a
 # 年度工作总结
 本年度总结围绕前沿算法跟踪、模型微调训练、算法优化部署及相关文档编写四个方面，对本人年度工作的主要内容与成果进行了梳理与总结。
 
@@ -45,18 +44,10 @@ https://github.com/user-attachments/assets/8c2f4433-29c8-43e2-8659-b68e174abe0a
       画风
     </td>
     <td>
-      
-
-https://github.com/user-attachments/assets/8dc391c1-58ae-46b5-9439-03760d3f7f61
-
-
+      <video src="https://github.com/zishen-ucap/Work_Summary_for_2024/blob/main/video/2-1-1.mp4" width="200" controls></video>
     </td>
     <td>
-      
-
-https://github.com/user-attachments/assets/94052977-da26-4929-ab16-89c990488460
-
-
+      <video src=".\video\2-1-2.mp4" width="600" controls></video>
     </td>
   </tr>
   <tr>
@@ -64,10 +55,10 @@ https://github.com/user-attachments/assets/94052977-da26-4929-ab16-89c990488460
       人物
     </td>
     <td>
-      <video src=".\video\2-1(3).mp4" width="200" controls></video>
+      <video src=".\video\2-1-3.mp4" width="200" controls></video>
     </td>
     <td>
-      <video src=".\video\2-1(4).mp4" width="600" controls></video>
+      <video src=".\video\2-1-4.mp4" width="600" controls></video>
     </td>
   </tr>
 </table>
