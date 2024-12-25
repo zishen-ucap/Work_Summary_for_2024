@@ -44,7 +44,7 @@
       画风
     </td>
     <td>
-      <video src="https://github.com/user-attachments/assets/cf5953ea-96d3-48fd-9907-c4708752c714" width="30%" controls autoplay loop></video>
+      <video src="hhttps://github.com/zishen-ucap/Work_Summary_for_2024/blob/main/video/2-1-1.mp4" width="30%" controls autoplay loop></video>
     </td>
     <td>
       <video src=".\video\2-1-2.mp4" width="600" controls></video>
