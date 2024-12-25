@@ -55,7 +55,7 @@
       人物
     </td>
     <td>
-      <video src=".\video\2-1-3.mp4" width="200" controls></video>
+      <video src="https://shurong-obs.obs.cn-north-4.myhuaweicloud.com/gn-test/202310121697121968416_248_143.mp4" width="200" controls></video>
     </td>
     <td>
       <video src=".\video\2-1-4.mp4" width="600" controls></video>
