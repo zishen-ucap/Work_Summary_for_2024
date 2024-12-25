@@ -44,10 +44,10 @@
       画风
     </td>
     <td>
-      <video src="https://github.com/user-attachments/assets/7fbda3e0-c797-426e-b12c-14856bc02921" width="30%" controls autoplay loop></video>
+      <video src="https://github.com/user-attachments/assets/7fbda3e0-c797-426e-b12c-14856bc02921" width="200" controls></video>
     </td>
     <td>
-      <video src=".\video\2-1-2.mp4" width="600" controls></video>
+      <video src="https://github.com/user-attachments/assets/6a7f055b-33a8-4c8e-ad8b-a8b361c08260" width="600" controls></video>
     </td>
   </tr>
   <tr>
