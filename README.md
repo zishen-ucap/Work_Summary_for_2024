@@ -55,10 +55,10 @@
       人物
     </td>
     <td>
-      <video src="https://shurong-obs.obs.cn-north-4.myhuaweicloud.com/gn-test/202310121697121968416_248_143.mp4" width="200" controls></video>
+      <video src="https://github.com/user-attachments/assets/b08a80f4-6258-4702-a491-7da8869a4bf5" width="200" controls></video>
     </td>
     <td>
-      <video src=".\video\2-1-4.mp4" width="600" controls></video>
+      <video src="https://github.com/user-attachments/assets/25d21c00-5d3e-4dc1-aaed-3c97a4e8a1b5" width="600" controls></video>
     </td>
   </tr>
 </table>
@@ -94,7 +94,7 @@
       效果
     </td>
     <td>
-      <video src=".\video\3-1-1(1).mp4" width="200" controls></video>
+      <video src=".\video\3-1-1-1.mp4" width="200" controls></video>
     </td>
     <td>
       <video src=".\video\3-1-1(2).mp4" width="200" controls></video>
