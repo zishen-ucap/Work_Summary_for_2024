@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/8c2f4433-29c8-43e2-8659-b68e174abe0a
 # 年度工作总结
 本年度总结围绕前沿算法跟踪、模型微调训练、算法优化部署及相关文档编写四个方面，对本人年度工作的主要内容与成果进行了梳理与总结。
 
@@ -43,10 +45,18 @@
       画风
     </td>
     <td>
-      <video src=".\video\2-1(1).mp4" width="200" controls></video>
+      
+
+https://github.com/user-attachments/assets/8dc391c1-58ae-46b5-9439-03760d3f7f61
+
+
     </td>
     <td>
-      <video src=".\video\2-1(2).mp4" width="600" controls></video>
+      
+
+https://github.com/user-attachments/assets/94052977-da26-4929-ab16-89c990488460
+
+
     </td>
   </tr>
   <tr>
@@ -258,9 +268,12 @@ Mimicmotion算法在处理输入图像主题与输入视频主体体型差异较
 </div>
 使用xDiT提高了Mochi算法的推理速度。
 ### 3.2 算法部署
-完成相应视频生成接口开发：- 文生视频：Cogvideox(T2V 5B) （已上至开悟集市）
+完成相应视频生成接口开发：
+
+- 文生视频：Cogvideox(T2V 5B) （已上至开悟集市）
 - 图生视频：Cogvideox(I2V 5B)
-- 动作驱动：Mimicmotion
+- 动作驱动：Mimicmotion
+
 
 ## 4. 相关文档撰写
 ### 4.1 专利交底书撰写
